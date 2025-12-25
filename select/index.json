@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "路地裏の少年 (WE ARE STILL ON THE ROAD.)",
+  "base_artist": "浜田省吾",
+  "createdAt": "2025-12-25T00:33:25.590241Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "路地裏の少年",
+      "artist": "浜田省吾",
+      "has_synced": true,
+      "path": "select/01_路地裏の少年_浜田省吾.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "路地裏の少年(1986)",
+      "artist": "Shogo Hamada",
+      "has_synced": true,
+      "path": "select/02_路地裏の少年(1986)_Shogo_Hamada.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "路地裏の少年",
+      "artist": "浜田 省吾",
+      "has_synced": false,
+      "path": "select/pl_01_路地裏の少年_浜田_省吾.txt"
+    }
+  ]
+}
